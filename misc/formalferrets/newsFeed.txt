@@ -1,0 +1,5 @@
+[newsfeedID] : 1
+Belle/#/e.happy/#/Welcome to the first test of formalferrets!
+Chase/#/e.shocked/#/Is it really the first test?
+Belle/#/e.fistUp/#/Yes!!!!
+[endScreen] : daBunk
