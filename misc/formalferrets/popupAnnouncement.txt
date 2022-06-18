@@ -1,2 +1,2 @@
-/pua/main.png
-This a test announcement!
+/pua/testimg.png
+is facts doh, you are dog water
