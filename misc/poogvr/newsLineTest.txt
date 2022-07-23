@@ -1,4 +1,1 @@
-Scruffy_Debug_Test_1
-[Bert](Happy)I think the test is working!
-[Plum](Angry)Who cares
-[Bert](Sad) Why did you do this to me?
+Scruffy_Debug_Test_1~[Bert](Happy)I think the test is working!~[Plum](Angry)Who cares~[Bert](Sad) Why did you do this to me?
